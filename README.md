@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00D4FF&height=150&section=header&text=Welcome!&fontColor=FFFFFF&fontSize=90&fontFamily=OCR%20A%20Std,monospace)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00D4FF&height=160&section=header&text=Welcome!&fontColor=FFFFFF&fontSize=90&fontFamily=OCR%20A%20Std,monospace&animation=fadeIn&fontAlignY=35)
 
-<!-- text=Hey Everyone!🕹️  &   animation=fadeIn   &    type=waving    &    color=gradient    &    height=100
+<!-- text=Hey Everyone!🕹️  &animation=fadeIn   &    type=waving    &    color=gradient    &    height=100
 **Michalg462/Michalg462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
