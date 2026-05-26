@@ -5,7 +5,7 @@
 </div>
 
 ---
-<div align="center"><h2>My repositories</h2></div>
+<div align="center"><h2>📌 My repositories</h2></div>
 <!-- repozytoria --> 
 <div align="center">
   <table>
@@ -32,6 +32,16 @@
   </td>
   </tr>
   </table>
+</div>
+
+
+---
+<div align="center"><h2>⚡ GitHub Activity</h2></div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Michalg462&theme=tokyonight&hide_border=true&background=0d1b2e&ring=4faffe&fire=4faffe&currStreakLabel=4faffe&sideLabels=8aaac8&dates=8aaac8&stroke=1a4b8c" />
+
 </div>
 
 <!-- text=Hey Everyone!🕹️  &animation=fadeIn   &    type=waving    &    color=gradient    &    height=100
