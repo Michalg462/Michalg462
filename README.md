@@ -26,6 +26,7 @@ Take a look around — projects live here.
   
   ![Python](https://img.shields.io/badge/-Python-0d1b2e?style=flat-square&logo=python&logoColor=4faffe)
   ![C++](https://img.shields.io/badge/C++-0d1b2e?style=flat-square&logo=cplusplus&logoColor=4faffe)
+  ![Docker](https://img.shields.io/badge/Docker-0d1b2e?style=flat-square&logo=cplusplus&logoColor=4faffe)
   [![Repo](https://img.shields.io/badge/GitHub-repo-1a4b8c?style=flat-square&logo=github)](https://github.com/Michalg462/arduino-to-flask-iot)
   
   </td>
