@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00D4FF&height=160&section=header&text=Welcome!&fontColor=FFFFFF&fontSize=90&fontFamily=Courier%20New&animation=fadeIn&fontAlignY=35)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00D4FF&height=160&section=header&text=Welcome!&fontColor=FFFFFF&fontSize=90&fontFamily=Courier%20New&animation=fadeIn&fontAlignY=35)-->
+<div align="center">
+  <img src="https://github.com/Michalg462/Michalg462/blob/main/res/banner.png"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&width=900&color=4FAFFE&center=true&vCenter=true&lines=STEM+%7C+Research+%26+Development;Always+learning%2C+always+building." alt="Typing SVG" />
